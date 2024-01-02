@@ -151,7 +151,7 @@ class createPage extends StatelessWidget {
           textAlign: TextAlign.center,
           style: TextStyle(
             color: Constants.primaryColor,
-            fontSize: 30,
+            fontSize: 25,
             fontWeight: FontWeight.bold,
           ),
           ),
